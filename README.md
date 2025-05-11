@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Andromeda-Galaxy29
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
+- Hello, I’m @Andromeda-Galaxy29
+I make stuff
